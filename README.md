@@ -1,6 +1,6 @@
 
 
-# Welcome to Seleum 2 go Repository
+# Welcome to Seleum 2 Go Repository
 ### This is a JUnit test project for testing the login function of the Demo Guru 99 website with a valid account. The test case is to check if the welcome message is displayed correctly after logging in with the given valid user/pass.
 
 
